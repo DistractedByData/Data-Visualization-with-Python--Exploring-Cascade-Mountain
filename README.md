@@ -17,7 +17,7 @@ I've also documented my analysis, so you can watch the full breakdown on YouTube
 
 
 
-**And as always, you can view the entire Jupyter notebook [here](https://github.com/DistractedByData/Data-Visualization-with-Python--Exploring-Cascade-Mountain/blob/main/Cascade_Analysis.ipynb)!**
+**And as always, you can view the entire Jupyter notebook [here](https://github.com/DistractedByData/Data-Visualization-with-Python--Exploring-Cascade-Mountain/blob/main/Cascade_analysis.html)!**
 
 
 
